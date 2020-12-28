@@ -1,0 +1,20 @@
+* Phần hệ điều hành:
+Phần Nguyên lí hệ điều hành: Tìm hiểu cơ chế đồng bộ các process để giải quyết Bài toán Sản xuất - Tiêu dùng
+
+1 Môi trường cài đặt
+● Hệ điều hành: Window
+● Công cụ: Eclipse
+● Ngôn ngữ lập trình : Java
+2 Chạy chương trình
+ Mở và chạy file Cashier.java
+
+* Phần lập trình mạng:
+Tên đề tài : Xây dựng ứng dụng thi trắc nghiệm trên điện thoại
+1. Môi trường cài đặt:
+● Hệ điều hành: Window
+● Ngôn ngữ lập trình: Java
+● Công cụ: Android Studio
+2. Chạy chương trình
+Mở thư mục connect_to_server trong thư mục Server >> Import vào MongoDB >> connect để kết nối với dữ liệu của ứng dụng
+Mở command line >> Đến thư mục Server >> npm start >> Khởi chạy web server
+Mở Android Studio >> Chon thư mục chứa Project - DoAnCoSoNghanhmang-main >> Run

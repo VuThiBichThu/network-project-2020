@@ -1,0 +1,227 @@
+{ 
+    "_id" : ObjectId("5f7951c3075eaa0904bd3b70"), 
+    "question_set" : [
+        {
+            "question" : "small means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "afraid"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "untrue"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "little"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "sad"
+                }
+            ], 
+            "correct" : 3.0
+        }, 
+        {
+            "question" : "shut means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "donate"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "say"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "close"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "hear"
+                }
+            ], 
+            "correct" : 3.0
+        }, 
+        {
+            "question" : "improve means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "hold"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "make better"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "bother"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "weep"
+                }
+            ], 
+            "correct" : 2.0
+        }, 
+        {
+            "question" : "freedom means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "liberty"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "mama"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "cushion"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "pupil"
+                }
+            ], 
+            "correct" : 1.0
+        }, 
+        {
+            "question" : "attention means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "good fortune"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "notice"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "load"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "pot"
+                }
+            ], 
+            "correct" : 2.0
+        }, 
+        {
+            "question" : "creep means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "rinse"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "be delighted"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "try"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "crawl"
+                }
+            ], 
+            "correct" : 4.0
+        }, 
+        {
+            "question" : "investigate means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "fix"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "admit"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "examine"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "reduce"
+                }
+            ], 
+            "correct" : 3.0
+        }, 
+        {
+            "question" : "sneaky means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "tricky"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "minuscule"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "sympathetic"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "foamy"
+                }
+            ], 
+            "correct" : 1.0
+        }, 
+        {
+            "question" : "filthy means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "fake"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "dirty"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "chubby"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "happy"
+                }
+            ], 
+            "correct" : 2.0
+        }, 
+        {
+            "question" : "merchandise means:", 
+            "answers" : [
+                {
+                    "id" : 1.0, 
+                    "text" : "castle"
+                }, 
+                {
+                    "id" : 2.0, 
+                    "text" : "gravy"
+                }, 
+                {
+                    "id" : 3.0, 
+                    "text" : "billfold"
+                }, 
+                {
+                    "id" : 4.0, 
+                    "text" : "products"
+                }
+            ], 
+            "correct" : 4.0
+        }
+    ], 
+    "name" : "English quiz", 
+    "id" : "engquiz01"
+}

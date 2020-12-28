@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("5f7951c3075eaa0904bd3b80"), 
+    "idStudent" : "1", 
+    "pass" : "thuvu", 
+    "name" : "Thu Vu", 
+    "grade" : "A2", 
+    "score" : 2.0
+},
+{ 
+    "_id" : ObjectId("5f7edf3f52efc04b7e1b898a"), 
+    "idStudent" : "3", 
+    "pass" : "tanvu", 
+    "name" : "Tan Vu", 
+    "grade" : "A1", 
+    "score" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5f79579b075eaa0904bd3b82"), 
+    "idStudent" : "2", 
+    "pass" : "nhungvu", 
+    "name" : "Nhung Vu", 
+    "grade" : "B1", 
+    "score" : 3.0
+},
+{ 
+    "_id" : ObjectId("5f7edf3f52efc04b7e1b898c"), 
+    "idStudent" : "4", 
+    "pass" : "taivu", 
+    "name" : "Tai Vu", 
+    "grade" : "A1", 
+    "score" : 1.0
+}
